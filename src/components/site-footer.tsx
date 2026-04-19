@@ -37,9 +37,9 @@ export function SiteFooter() {
         <div>
           <h4 className="text-sm font-semibold text-foreground">Get in Touch</h4>
           <ul className="mt-4 space-y-3 text-sm text-muted-foreground">
-            <li><a href="tel:+919999999999" className="flex items-center gap-2 hover:text-primary"><Phone className="h-4 w-4" /> +91 99999 99999</a></li>
-            <li><a href="https://wa.me/919999999999" className="flex items-center gap-2 hover:text-primary"><MessageCircle className="h-4 w-4" /> WhatsApp Us</a></li>
-            <li><a href="mailto:hello@saibalajipg.in" className="flex items-center gap-2 hover:text-primary"><Mail className="h-4 w-4" /> hello@saibalajipg.in</a></li>
+            <li><a href="tel:+918977737783" className="flex items-center gap-2 hover:text-primary"><Phone className="h-4 w-4" /> +91 89777 37783</a></li>
+            <li><a href="https://wa.me/918977737783" className="flex items-center gap-2 hover:text-primary"><MessageCircle className="h-4 w-4" /> WhatsApp Us</a></li>
+            <li><a href="mailto:saibalajicolivingpg@gmail.com" className="flex items-center gap-2 hover:text-primary"><Mail className="h-4 w-4" /> saibalajicolivingpg@gmail.com</a></li>
           </ul>
         </div>
       </div>
