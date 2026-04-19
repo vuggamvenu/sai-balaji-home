@@ -13,10 +13,10 @@ export function CtaBar() {
         </div>
         <div className="flex flex-wrap gap-3">
           <Button asChild size="lg" variant="secondary" className="gap-2">
-            <a href="tel:+919999999999"><Phone className="h-4 w-4" /> Call Now</a>
+            <a href="tel:+918977737783"><Phone className="h-4 w-4" /> Call Now</a>
           </Button>
           <Button asChild size="lg" variant="outline" className="gap-2 border-primary-foreground/30 bg-transparent text-primary-foreground hover:bg-primary-foreground hover:text-primary">
-            <a href="https://wa.me/919999999999"><MessageCircle className="h-4 w-4" /> WhatsApp</a>
+            <a href="https://wa.me/918977737783"><MessageCircle className="h-4 w-4" /> WhatsApp</a>
           </Button>
           <Button asChild size="lg" variant="outline" className="gap-2 border-primary-foreground/30 bg-transparent text-primary-foreground hover:bg-primary-foreground hover:text-primary">
             <a href="https://maps.google.com/?q=Sai+Balaji+Co-living+PG+Marathahalli+Bangalore"><MapPin className="h-4 w-4" /> Visit Us</a>

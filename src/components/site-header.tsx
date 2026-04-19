@@ -44,7 +44,7 @@ export function SiteHeader() {
 
         <div className="hidden lg:flex">
           <Button asChild size="sm" className="gap-2">
-            <a href="tel:+919999999999"><Phone className="h-4 w-4" /> Book a Visit</a>
+            <a href="tel:+918977737783"><Phone className="h-4 w-4" /> Book a Visit</a>
           </Button>
         </div>
 
@@ -73,7 +73,7 @@ export function SiteHeader() {
               </Link>
             ))}
             <Button asChild className="mt-3 gap-2">
-              <a href="tel:+919999999999"><Phone className="h-4 w-4" /> Book a Visit</a>
+              <a href="tel:+918977737783"><Phone className="h-4 w-4" /> Book a Visit</a>
             </Button>
           </nav>
         </div>

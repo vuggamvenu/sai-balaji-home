@@ -15,9 +15,9 @@ export const Route = createFileRoute("/contact")({
 });
 
 const channels = [
-  { icon: Phone, title: "Call Us", value: "+91 99999 99999", href: "tel:+919999999999", cta: "Call now" },
-  { icon: MessageCircle, title: "WhatsApp", value: "Chat instantly", href: "https://wa.me/919999999999", cta: "Open WhatsApp" },
-  { icon: Mail, title: "Email", value: "hello@saibalajipg.in", href: "mailto:hello@saibalajipg.in", cta: "Send email" },
+  { icon: Phone, title: "Call Us", value: "+91 89777 37783", href: "tel:+918977737783", cta: "Call now" },
+  { icon: MessageCircle, title: "WhatsApp", value: "Chat instantly", href: "https://wa.me/918977737783", cta: "Open WhatsApp" },
+  { icon: Mail, title: "Email", value: "saibalajicolivingpg@gmail.com", href: "mailto:saibalajicolivingpg@gmail.com", cta: "Send email" },
 ];
 
 function ContactPage() {

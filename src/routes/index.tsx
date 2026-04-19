@@ -69,7 +69,7 @@ function HomePage() {
             </p>
             <div className="mt-7 flex flex-wrap gap-3">
               <Button asChild size="lg" className="gap-2">
-                <a href="tel:+919999999999"><Phone className="h-4 w-4" /> Book Your Stay Now</a>
+                <a href="tel:+918977737783"><Phone className="h-4 w-4" /> Book Your Stay Now</a>
               </Button>
               <Button asChild size="lg" variant="outline">
                 <Link to="/rooms">Explore Rooms <ArrowRight className="ml-1 h-4 w-4" /></Link>
